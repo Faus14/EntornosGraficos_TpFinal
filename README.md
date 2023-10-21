@@ -1,2 +1,2 @@
 # EntornosGraficosTPFinal
-Trabajo Práctico de Entornos Gráficos
+Trabajo Práctico de la materia Entornos Gráficos
